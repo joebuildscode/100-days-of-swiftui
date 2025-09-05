@@ -10,6 +10,7 @@ The goal of this repo is to track my progress and showcase the projects I built 
 Each project is contained in its own folder, named according to the day or project name:
 
 100-days-of-swiftui/
+
 ├── Day-01-Hello-World/
 
 ├── Day-02-Guess-the-Flag/
