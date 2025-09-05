@@ -11,8 +11,11 @@ Each project is contained in its own folder, named according to the day or proje
 
 100-days-of-swiftui/
 ├── Day-01-Hello-World/
+
 ├── Day-02-Guess-the-Flag/
+
 ├── Day-03-WeSplit/
+
 ├── ...
 
 
