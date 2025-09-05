@@ -1,5 +1,3 @@
-# 100-days-of-swiftui
-
 # 100 Days of SwiftUI
 
 This repository contains all of my projects and exercises completed as part of Paul Hudson's **100 Days of SwiftUI** course.
